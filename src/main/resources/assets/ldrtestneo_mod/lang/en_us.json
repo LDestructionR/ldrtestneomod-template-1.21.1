@@ -1,0 +1,23 @@
+{
+  "item.ldrtestneo_mod.moonlight_ingot":"moonlight ingot",
+  "item.ldrtestneo_mod.moonlight_item":"moonlight",
+  "item.ldrtestneo_mod.moon_essence":"moon essence",
+  "item.ldrtestneo_mod.moon_ingot":"moon ingot",
+
+  "block.ldrtestneo_mod.moon_block":"moon block",
+  "block.ldrtestneo_mod.moon_stone":"moon stone",
+  "block.ldrtestneo_mod.moon_essence_block":"moon essence block",
+  "block.ldrtestneo_mod.moonlight_stone":"moon light stone",
+
+
+  "itemGroup.ldrtestneo":"moon craft",
+
+
+  "ldrtestneo_mod.configuration.title": "LDRTESTNEO Mod Configs",
+  "ldrtestneo_mod.configuration.section.ldrtestneo_mod.common.toml": "LDRTESTNEO Mod Configs",
+  "ldrtestneo_mod.configuration.section.ldrtestneo_mod.common.toml.title": "LDRTESTNEO Mod Configs",
+  "ldrtestneo_mod.configuration.items": "Item List",
+  "ldrtestneo_mod.configuration.logDirtBlock": "Log Dirt Block",
+  "ldrtestneo_mod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "ldrtestneo_mod.configuration.magicNumber": "Magic Number"
+}

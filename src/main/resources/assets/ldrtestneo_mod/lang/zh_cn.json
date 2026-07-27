@@ -1,0 +1,23 @@
+{
+  "item.ldrtestneo_mod.moonlight_ingot":"月光锭",
+  "item.ldrtestneo_mod.moonlight_item":"月光",
+  "item.ldrtestneo_mod.moon_essence":"月之精华",
+  "item.ldrtestneo_mod.moon_ingot":"月锭",
+
+  "block.ldrtestneo_mod.moon_block":"月块",
+  "block.ldrtestneo_mod.moon_stone":"月石",
+  "block.ldrtestneo_mod.moon_essence_block":"月精华块",
+  "block.ldrtestneo_mod.moonlight_stone":"月光石",
+
+  "itemGroup.ldrtestneo_mod":"月之工艺",
+
+
+
+  "ldrtestneo_mod.configuration.title": "LDRTESTNEO Mod Configs",
+  "ldrtestneo_mod.configuration.section.ldrtestneo_mod.common.toml": "LDRTESTNEO Mod Configs",
+  "ldrtestneo_mod.configuration.section.ldrtestneo_mod.common.toml.title": "LDRTESTNEO Mod Configs",
+  "ldrtestneo_mod.configuration.items": "Item List",
+  "ldrtestneo_mod.configuration.logDirtBlock": "Log Dirt Block",
+  "ldrtestneo_mod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "ldrtestneo_mod.configuration.magicNumber": "Magic Number"
+}
