@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "ldrtestneo_mod:moon_stone",
+    "ldrtestneo_mod:moonlight_stone",
+    "ldrtestneo_mod:moon_block",
+    "ldrtestneo_mod:moon_essence_block"
+  ]
+}
