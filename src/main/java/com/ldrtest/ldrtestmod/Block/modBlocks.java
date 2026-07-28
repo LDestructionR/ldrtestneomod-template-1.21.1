@@ -23,6 +23,7 @@ public class modBlocks {
 
 
     public static final DeferredBlock<Block> MOON_STONE = registerBlocks("moon_stone", () -> new Block(BlockBehaviour.Properties.of().strength(5.0F, 9.0F).mapColor(MapColor.STONE)));
+    public static final DeferredBlock<Block> HUANG_BLOCK = registerBlocks("huang_block", () -> new Block(BlockBehaviour.Properties.of().strength(2.0F, 4.0F).mapColor(MapColor.GOLD)));
     public static final DeferredBlock<Block> MOONLIGHT_STONE = registerBlocks("moonlight_stone", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.BEDROCK).mapColor(MapColor.STONE)));
     public static final DeferredBlock<Block> MOON_BLOCK = registerBlocks("moon_block", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.BEDROCK).mapColor(MapColor.STONE)));
     public static final DeferredBlock<Block> MOON_ESSENCE_BLOCK = registerBlocks("moon_essence_block", () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.BEDROCK).mapColor(MapColor.STONE)));

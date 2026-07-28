@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "ldrtestneo_mod:block/huang_block"
+  }
+}
