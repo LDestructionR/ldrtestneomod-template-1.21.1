@@ -1,0 +1,24 @@
+{
+  "type":
+  "ldrtestneo_mod:moon",
+
+  "generator":
+  {
+    "type":
+    "minecraft:noise",
+
+    "settings":
+    "ldrtestneo_mod:moon",
+
+    "biome_source":
+    {
+      "type":
+      "minecraft:fixed",
+
+      "biome":
+      "ldrtestneo_mod:moon"
+    }
+
+  }
+
+}

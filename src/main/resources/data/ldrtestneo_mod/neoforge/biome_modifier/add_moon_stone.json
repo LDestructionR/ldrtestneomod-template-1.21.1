@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "ldrtestneo_mod:moon",
+  "features": [
+    "ldrtestneo_mod:moon_stone"
+  ],
+  "step": "underground_ores"
+}

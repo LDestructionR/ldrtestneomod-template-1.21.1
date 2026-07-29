@@ -32,6 +32,7 @@ public class modCreativeModeTabs {
                 output.accept(modBlocks.MOONLIGHT_STONE);
                 output.accept(modBlocks.MOON_STONE);
                 output.accept(modBlocks.HUANG_BLOCK);
+                output.accept(modBlocks.PLAGIOCLASE);
             }).build());
 
     public static void register(IEventBus eventBus){
